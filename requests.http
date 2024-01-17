@@ -1,0 +1,1 @@
+GET http://localhost:8080/http_status_monitor_war_exploded/api/monitor/say-hello
